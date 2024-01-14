@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LRxzYJwuprctesA1vcsuBCGD7C9npp77RaWgoPjTpuWShUAn+qEkz3gfUpx0GAk+S1+pxxNo+4XPbSS4q5wSrg==",
+  "dgSpecHash": "EtewD+0ONF9NmaxmXVqHC2bHYW2OZh09clDImq7mjab1fdLxAr9tuiXQguI33sqkosvlMR8K3oEfCgpk6+r1Vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\macic\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\macic\\Desktop\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\macic\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\macic\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

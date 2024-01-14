@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
+using WebApplication1.Autentifikacija;
 using WebApplication1.EntityModels;
 
 
@@ -26,6 +27,7 @@ namespace WebApplication1.Data
         public DbSet<Placanje> Placanje { get; set; }
         public DbSet<CjenovnikKursa> CjenovnikKursa { get; set; }
         public DbSet<CjenovnikIspita> CjenovnikIspita { get; set; }
+        public DbSet<AutentifikacijaToken> AutentifikacijaToken { get; set; }
 
         public ApplicationDbContext(
            
